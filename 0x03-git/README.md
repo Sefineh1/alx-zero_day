@@ -1,2 +1,1 @@
-my second readme
-Second time to edit this readme file
+This is sefineh Adane from Ethiopia
